@@ -2,6 +2,8 @@
 
 Recurrent neural network with attention mechanism for optical character recognition. A prototype. 
 
+[[https://github.com/selivanov/repository/blob/master/docs/example.png|alt=attention]]
+
 ## Usage ##
 
 To train a new model:
