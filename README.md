@@ -1,8 +1,8 @@
 # Attention-based Optical Character Recognition #
 
-Recurrent neural network with attention mechanism for optical character recognition. A prototype. 
+Recurrent neural network with attention mechanism for optical character recognition. An early prototype. 
 
-[[https://github.com/selivanov/repository/blob/master/docs/example.png|alt=attention]]
+[[https://github.com/lightcaster/attention_ocr/blob/master/docs/example.png|alt=attention]]
 
 ## Usage ##
 
