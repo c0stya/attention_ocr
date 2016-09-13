@@ -14,5 +14,5 @@ python train.py -m model.pkl
 ```
 To test a model:
 ```bash
-python test.py -m model -t "some text"
+python test.py -m model -t "sometext"
 ```
