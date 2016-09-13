@@ -2,7 +2,7 @@
 
 Recurrent neural network with attention mechanism for optical character recognition. An early prototype. 
 
-[[https://github.com/lightcaster/attention_ocr/blob/master/docs/example.png|alt=attention]]
+[[https://github.com/lightcaster/attention_ocr/raw/master/docs/example.png]]
 
 ## Usage ##
 
